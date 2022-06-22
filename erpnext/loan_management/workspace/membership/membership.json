@@ -1,0 +1,52 @@
+{
+ "charts": [],
+ "content": "[{\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Membership</span>\",\"col\":12}}]",
+ "creation": "2022-03-17 20:27:14.416523",
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "share-people",
+ "idx": 0,
+ "label": "MemberShip",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Members",
+   "link_count": 0,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Add Members",
+   "link_count": 0,
+   "link_to": "Members",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2022-03-17 20:37:13.738180",
+ "modified_by": "Administrator",
+ "module": "Loan Management",
+ "name": "MemberShip",
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "restrict_to_domain": "",
+ "roles": [],
+ "sequence_id": 2.0,
+ "shortcuts": [
+  {
+   "doc_view": "List",
+   "label": "Add Members",
+   "link_to": "Members",
+   "type": "DocType"
+  }
+ ],
+ "title": "MemberShip"
+}
